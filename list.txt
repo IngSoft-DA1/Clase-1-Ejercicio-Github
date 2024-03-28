@@ -20,7 +20,7 @@ Geribon  Perez,  Esteban  Daniel  (181919) -> Usuario de GitHub: EstebanGeribon
 Grillo  Grant,  Carlos  Ignacio (192479) -> Usuario de GitHub: cgrillog 				
 Guala  Fajardo,  Mauricio  Germán					
 Hegui  Suares,  Noelia  Larisa	-> NoeliaHegui				
-Lemos  Kaphammel,  Juan  Alejo					
+Lemos  Kaphammel,  Juan  Alejo	(192485) -> Usuario de GitHub: JuanLemosK				
 Miranda  Correa,  Rodrigo					
 Pera  Puime,  Sebastian					
 Roux  Pereyra,  Martín (254820) -> Usuario de GitHub: martinrouxpereyra				
