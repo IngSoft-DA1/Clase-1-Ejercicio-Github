@@ -1,14 +1,2 @@
 Guillermo Areosa (210030) -> Usuario de GitHub: gareosa
-Nicolás Germán (270156) -> Usuario de GitHub: nicogerman
-Guillermo Areosa (210030) -> Usuario de GitHub: gareosa 
-Jorge Sapelli (253481) -> Usuario de Github: jojosapelli
-Juan Manuel Latorre (306632) -> Usuario de GitHub: JMLatorre
-Andrés Dalla Rizza (327432) -> Usuario de GitHub: Andresdalla
-Patricio L. Visillac (301262) -> Usuario de GitHub: patovisillac
-Nahuel Zeballos (287886) -> Usuario de GitHub: nushey
-Juan Manuel Varela (289733) -> Usuario de GitHub: JuanManuelVarela
-Martin Obes (314505) -> Usuario de GitHub: MartinObes
-Juan Pedro Michelini (286845) -> Usuario de GitHub: JuanPeMiche
-Juan Manuel Latorre (306632) -> Usuario de GitHub: JMLatorre
-Guillermo Boero (233452) -> Usuario de GitHub: Gulduster 
-Santiago Aguerre (274715) -> Usuario de GitHub: SantaigoA1608
+Alan Skorka (289871) -> Usuario de GitHub: alanskorka
