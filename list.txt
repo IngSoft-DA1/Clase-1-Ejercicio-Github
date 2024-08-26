@@ -1,3 +1,4 @@
+
 Guillermo Areosa (210030) -> Usuario de GitHub: gareosa
 Nicolás Germán (270156) -> Usuario de GitHub: nicogerman
 Guillermo Areosa (210030) -> Usuario de GitHub: gareosa 
@@ -12,3 +13,6 @@ Juan Pedro Michelini (286845) -> Usuario de GitHub: JuanPeMiche
 Juan Manuel Latorre (306632) -> Usuario de GitHub: JMLatorre
 Guillermo Boero (233452) -> Usuario de GitHub: Gulduster 
 Santiago Aguerre (274715) -> Usuario de GitHub: SantaigoA1608
+Juan Cortabarria (314750) -> Usuario de GitHub: JuanCortabarria
+
+
